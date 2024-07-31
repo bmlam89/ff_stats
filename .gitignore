@@ -1,0 +1,10 @@
+# Ignore node_modules in server and client directories
+server/node_modules/
+client/node_modules/
+
+# Ignore .env files in server and client directories
+server/.env
+client/.env
+
+# Ignore any file that starts with localhost in server directory
+server/localhost*
